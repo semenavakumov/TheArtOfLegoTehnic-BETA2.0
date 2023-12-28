@@ -1,0 +1,17 @@
+.pathnout {
+    background-color: rgba(61, 61, 61, 0.5);
+    display: line;
+}
+.path {
+    width: 50vw;
+    margin-left: 25%;
+    margin-bottom: 5%;
+}
+h2 {
+    background-color: rgba(29, 29, 29, 0.5);
+    font-size: 30px;
+    padding: 20px 2%;
+    margin:50px 20px;
+    display: line;
+    text-align: center;
+}
